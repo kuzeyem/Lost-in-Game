@@ -1,0 +1,4 @@
+repository "Lost_in_Game@kzygmnmtl@cloud"
+  path "/"
+    br "/main"
+    co "/main"
